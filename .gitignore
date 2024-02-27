@@ -3,7 +3,7 @@ node_modules
 
 #Database
 database/app.db
-database/*.sqlite
+database/app.sqlite
 
 #Enviroment
 .env
