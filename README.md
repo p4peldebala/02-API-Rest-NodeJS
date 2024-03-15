@@ -20,7 +20,7 @@ Antes de começar, você precisa configurar o ambiente:
    - Execute as migrações do banco de dados usando `npm run knex migrate:latest`.
 
 3. **Inicialização do Servidor:**
-   - Inicie o servidor com o comando `npm start`.
+   - Inicie o servidor com o comando `npm run dev`.
 
 ## Endpoints 🌐
 
